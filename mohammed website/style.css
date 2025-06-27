@@ -1,0 +1,17 @@
+/* Reset some default styles for a clean slate */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Optional: Set the page to take up the full height */
+  html, body {
+    height: 100%;
+  }
+  
+  /* Optional: Set a background color or keep it white */
+  body {
+    background-color: #eee8e8; /* White background */
+  }
+  
